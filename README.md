@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 - I am Kleuvys
 - 👀  I'm focusing for now on front-end development
-- 🌱  I’m currently learning all things related with the javascript environment and frameworks reactJs, nextJs. 
+- 🌱  I’m currently learning all things related with the javascript environment including frameworks reactJs and nextJs (This duo is awesome)! 
 
 - 📫 How to reach me
 
